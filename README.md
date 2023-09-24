@@ -7,7 +7,7 @@
 - :technologist: I absoutely in love with computer softwares.
 - :student: I’m currently learning `Microservices` and `Kubernetes`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, Contact me on twitter [@twitter](https://www.twitter.com/jaytailor45)
+- :thinking: I’m currently open for a new `job opportunity`, Contact me on twitter [@jaytailor45](https://www.twitter.com/jaytailor45)
 - :boom: You can visit [MY WEBSITE](https://bento.me/jaytailor).
 - :book: Sometimes I write technical articles, Check it out [here](https://blog.tailorjay.com/).
 
